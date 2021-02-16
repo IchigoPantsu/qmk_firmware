@@ -6,11 +6,17 @@
 #undef MOUSEKEY_MAX_SPEED
 #define MOUSEKEY_MAX_SPEED 5
 
+#undef MOUSEKEY_INTERVAL
+#define MOUSEKEY_INTERVAL 5
+
 #undef MOUSEKEY_DELAY
 #define MOUSEKEY_DELAY 0
 
 #undef MOUSEKEY_TIME_TO_MAX
 #define MOUSEKEY_TIME_TO_MAX 0
 
+
+
+#endif
 
 #endif
