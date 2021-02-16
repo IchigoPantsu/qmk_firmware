@@ -1,5 +1,6 @@
 #include QMK_KEYBOARD_H
 #include "version.h"
+#include "config.h"
 
 enum layers {
     BASE, // default layer
