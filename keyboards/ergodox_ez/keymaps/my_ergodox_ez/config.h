@@ -4,19 +4,15 @@
 #include "../../config.h"
 
 #undef MOUSEKEY_MAX_SPEED
-#define MOUSEKEY_MAX_SPEED 5
+#define MOUSEKEY_MAX_SPEED 4
 
 #undef MOUSEKEY_INTERVAL
-#define MOUSEKEY_INTERVAL 5
+#define MOUSEKEY_INTERVAL 0
 
 #undef MOUSEKEY_DELAY
 #define MOUSEKEY_DELAY 0
 
 #undef MOUSEKEY_TIME_TO_MAX
-#define MOUSEKEY_TIME_TO_MAX 0
-
-
-
-#endif
+#define MOUSEKEY_TIME_TO_MAX 15
 
 #endif
